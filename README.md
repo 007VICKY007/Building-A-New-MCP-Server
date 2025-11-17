@@ -104,9 +104,11 @@ Both tools return structured data that Claude can parse and present in a user-fr
 ![image3](https://github.com/user-attachments/assets/8a9be5ab-7ace-43db-a40e-07dd76707556)
 ![image 2](https://github.com/user-attachments/assets/b34dceab-f9f3-470b-9352-c1836d68ed26)
 ![image 1](https://github.com/user-attachments/assets/e57365a1-61d0-49d8-af6e-c7c4069e5221)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a04e84eb-f8ff-4a97-b1d1-75c8a4858fda" />
 
 
 
 
 *Last Updated: November 17, 2025*
+
 
