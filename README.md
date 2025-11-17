@@ -100,12 +100,13 @@ Both tools return structured data that Claude can parse and present in a user-fr
 - Location data is only used for weather queries
 - All data is sourced from public weather services
 
-## Support
+## Outputs
+![image3](https://github.com/user-attachments/assets/8a9be5ab-7ace-43db-a40e-07dd76707556)
+![image 2](https://github.com/user-attachments/assets/b34dceab-f9f3-470b-9352-c1836d68ed26)
+![image 1](https://github.com/user-attachments/assets/e57365a1-61d0-49d8-af6e-c7c4069e5221)
 
-For issues or questions about these weather tools:
-- Check Claude's tools documentation at https://docs.claude.com
-- Contact support at https://support.claude.com
 
----
+
 
 *Last Updated: November 17, 2025*
+
